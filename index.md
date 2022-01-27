@@ -1,37 +1,101 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!-- Coding by CodingLab | www.codinglabweb.com-->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <title> HyClient </title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Fontawesome CDN Link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+<body>
+  <nav>
+    <div class="navbar">
+      <div class="logo"><a href="#">HyClient</a></div>
+      <ul class="nav-links">
+       
+      </ul>
+      <div class="appearance">
+        <div class="light-dark">
+          <i class="btn fas fa-moon" data-color="#e4e6eb #e4e6eb #24292D #24292D #242526"></i>
+        </div>
+        <div class="color-icon">
+          <div class="icons">
+            <i class="fas fa-palette"></i>
+            <i class="fas fa-sort-down arrow"></i>
+          </div>
+          <div class="color-box">
+            <h3>Color Switcher</h3>
+            <div class="color-switchers">
+              <button class="btn blue active" data-color="#fff #24292d #4070f4 #0b3cc1 #F0F8FF"></button>
+              <button class="btn orange" data-color="#fff #242526 #F79F1F #DD8808 #fef5e6"></button>
+              <button class="btn purple" data-color="#fff #242526 #8e44ad #783993 #eadaf1"></button>
+              <button class="btn green" data-color="#fff #242526 #3A9943 #2A6F31 #DAF1DC"></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
 
-You can use the [editor on GitHub](https://github.com/XxSqUaDxX/hycliento/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <section class="home-content">
+    <div class="texts">
+      <h2 class="text">HyClient </h2>
+      <h3 class="text">Hypixel Skyblock <span>Client</span></h3>
+      <p>HyClient is a Hypixel Skyblock Client
+that makes your game a lot more pleasant
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+HyClient includes: dungeon addons, informations
+in hud like health, mana, etc., fps boost,
+fast world loading, and a lot of features
+that can improve your game.</p>
 
-### Markdown
+<a href="ustawienia.rar" download>Download</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XxSqUaDxX/hycliento/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	  </a>
+</a>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
